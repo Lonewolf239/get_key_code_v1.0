@@ -1,1 +1,1 @@
-# get_key_code_v1.0
+# A simple program to get ASCII codes
